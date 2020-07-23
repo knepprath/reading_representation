@@ -1,0 +1,12 @@
+.DS_Store
+/public/
+/exampleSite/public/
+
+workspace
+
+# /resources/*
+# static/*/*-*.min.*
+
+.env
+
+/.idea/
