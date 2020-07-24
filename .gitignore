@@ -4,8 +4,8 @@
 
 workspace
 
-# /resources/*
-# static/*/*-*.min.*
+/resources/*
+/static/*/*-*.min.*
 
 .env
 

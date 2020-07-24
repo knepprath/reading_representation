@@ -1,4 +1,29 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Reading Representation"
 theme = "osprey-delight"
+
+## Generic theme parameters:
+[Params]
+  author = ""
+  email = ""
+  description = "Reading Representation"
+  tagline = "The power of story to challenge stereotypes, promote empathy, equality and racial justice."
+
+  logoBig = "/images/title-logo.png"
+  # [str] This is the logo that will be shown in the left corner of the nav bar.
+  #   Usually, you would like to use something bigger than a favicon - but not too big either.
+  #   Make sure that the image does not overlay the nav links. Don't be afraid of experimenting!
+  logoSmall = "/images/simple-logo.png"
+  favicon = "/images/simple-logo.png"
+  opengraphImage = "/images/title-logo.png"
+  googleTagManager = ""
+  # [bool] The following will enforce redirection to the baseURL for all sub-directories/-pages.
+  #   Example: If you create about.md, Hugo will also create a '/about/index.html'.
+  #   This file will only contain a redirect directive if this switch is enabled (recommended, since this is a one-page theme).
+  enforceSinglePage = true
+  # [bool] Will generate copyright notice in footer for your site.
+  copyright = true
+  # [bool] Your credit is much appreciated. It will be displayed in a small way in your footer.
+  #   Anyways, of course you're free to uncomment the following line to disable the credit.
+  # credit = false
