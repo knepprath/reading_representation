@@ -21,9 +21,31 @@ theme = "osprey-delight"
   # [bool] The following will enforce redirection to the baseURL for all sub-directories/-pages.
   #   Example: If you create about.md, Hugo will also create a '/about/index.html'.
   #   This file will only contain a redirect directive if this switch is enabled (recommended, since this is a one-page theme).
-  enforceSinglePage = true
+  enforceSinglePage = false
   # [bool] Will generate copyright notice in footer for your site.
   copyright = true
   # [bool] Your credit is much appreciated. It will be displayed in a small way in your footer.
   #   Anyways, of course you're free to uncomment the following line to disable the credit.
   # credit = false
+
+
+## Theme features:
+[Params.Feat]
+  # [bool] Lazy loading of images with lazysizes (SEO-friendly).
+  lazyloading = true
+  # [bool] Enable the optional blog module
+  useBlog = true
+
+
+[[menu.main]]
+  name = "About"
+  url  = "/#about"
+  weight = 1
+[[menu.main]]
+  name = "Books"
+  url  = "/#work"
+  weight = 2
+[[menu.main]]
+  name = "Updates"
+  url  = "/#blog"
+  weight = 3
