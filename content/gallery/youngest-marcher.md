@@ -1,7 +1,7 @@
 +++
 date = "2017-05-12T22:25:02-07:00"
 title = "The Youngest Marcher"
-image = "youngest-marcher.jpg"
+image = "images/youngest-marcher.jpg"
 alt = "HERE and NOW - This lush picture book is a fantastic tool for engaging children 3-7 who are schooling from home who are eager to feel connected to their world while managing new anxieties."
 color = "#F8BABB"
 linkView = "https://cynthialevinson.com/books/the-youngest-marcher/"

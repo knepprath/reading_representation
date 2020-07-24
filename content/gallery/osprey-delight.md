@@ -1,7 +1,7 @@
 ---
 date: "2017-05-18T21:57:17-07:00"
 title: "Stamped: Racism, Antiracism, and You"
-image: "stamped.jpg"
+image: "images/stamped.jpg"
 color: "#DF171F"
 type: "github"
 github:

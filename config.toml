@@ -14,9 +14,9 @@ theme = "osprey-delight"
   # [str] This is the logo that will be shown in the left corner of the nav bar.
   #   Usually, you would like to use something bigger than a favicon - but not too big either.
   #   Make sure that the image does not overlay the nav links. Don't be afraid of experimenting!
-  logoSmall = "/images/simple-logo.png"
-  favicon = "/images/simple-logo.png"
-  opengraphImage = "/images/title-logo.png"
+  logoSmall = "/images/simple-logo.jpg"
+  favicon = "/images/simple-logo.jpg"
+  opengraphImage = "/images/simple-logo.jpg"
   googleTagManager = ""
   # [bool] The following will enforce redirection to the baseURL for all sub-directories/-pages.
   #   Example: If you create about.md, Hugo will also create a '/about/index.html'.
