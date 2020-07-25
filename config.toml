@@ -9,7 +9,6 @@ theme = "osprey-delight"
   email = ""
   description = "Reading Representation"
   tagline = "The power of story to challenge stereotypes, promote empathy, equality and racial justice."
-
   logoBig = "/images/title-logo.png"
   # [str] This is the logo that will be shown in the left corner of the nav bar.
   #   Usually, you would like to use something bigger than a favicon - but not too big either.
@@ -28,14 +27,12 @@ theme = "osprey-delight"
   #   Anyways, of course you're free to uncomment the following line to disable the credit.
   # credit = false
 
-
 ## Theme features:
 [Params.Feat]
   # [bool] Lazy loading of images with lazysizes (SEO-friendly).
   lazyloading = true
   # [bool] Enable the optional blog module
   useBlog = true
-
 
 [[menu.main]]
   name = "About"
