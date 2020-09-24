@@ -6,7 +6,7 @@ description = ""
 tags = []
 +++
 
-To date, Reading Representation has raised $700 to purchase books for children! A portion of these funds have been used to purchase books for Community Partners for Affordable Housing youth programs. 
+To date, Reading Representation has raised $800 to purchase books for children! A portion of these funds have been used to purchase books for Community Partners for Affordable Housing youth programs and early childhood programs served by the Tigard-Tualatin Family Resource Center. 
 
 We are actively looking to identify additional community organizations to support, including early childhood programs and organizations serving low-income communities. This effort is 100% volunteer run, so 100% of donations go towards the purchase of new books. 
 
